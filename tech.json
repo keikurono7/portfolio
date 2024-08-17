@@ -1,0 +1,47 @@
+[
+    {
+      "name": "C",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS25oYJlp2wL_GAT2FOKBaOlCt1fbn56-hXDg&s"
+    },
+    {
+      "name": "CPP",
+      "image": "https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"
+    },
+    {
+        "name": "Python",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxe6IR3EKgALq0lEUvpW3GmPH8rpAv1cK0_w&s"
+    },
+    {
+        "name": "Dart",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png"
+    },
+    {
+      "name": "Flutter",
+      "image": "https://blogs.brain-mentors.com/content/images/size/w2000/2022/03/flutter-2038877-1720090.webp"
+    },
+    {
+      "name": "Kotlin",
+      "image": "https://www.svgrepo.com/show/373728/kotlin.svg"
+    },
+    {
+      "name": "Java",
+      "image": "https://i.pinimg.com/originals/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.png"
+    },
+    {
+      "name": "HTML",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6935wo8bLZh5FeafJEffqWKDOpNpx6UE5bg&s"
+    },
+    {
+      "name": "CSS",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"
+    },
+    {
+      "name": "JS",
+      "image": "https://i.pinimg.com/736x/13/40/7c/13407c12f50f08d328800c3caef43f61.jpg"
+    },
+    {
+      "name": "React",
+      "image": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
+    }
+  ]
+  
