@@ -3,5 +3,10 @@
         "name": "Xploratory - Know About Space",
         "description": "This website aims to provide an insight about space to users on a daily basis",
         "link": "https://xploratory.vercel.app/"
+    },
+    {
+        "name": "Monte Carlo Simulation",
+        "description": "You can see the nnumber of dots randomly created and the number of dots inside circle which is used to get approx pi value",
+        "link": "https://monte-amber.vercel.app/"
     }
 ]
